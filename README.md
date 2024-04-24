@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiagotalpo
-- 👀 I’m interested in learn more about Cybersecurity
+- 👀 I’m interested in learn more about Cybersecurity and Programming
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on projects that involves pentest
 - 📫 How to reach me email thiagotalpo2304@gmail.com
